@@ -382,12 +382,14 @@ h1 span{
 .about-us .content{
   position:relative;
   width:100%;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
   overflow: visible;
 }
 
 .about-us .container{
   padding: 10px;
+  layout
 }
 
 .about-us .opacity{
