@@ -381,9 +381,9 @@ h1 span{
 
 .about-us .content{
   position:relative;
-  width:900px;
+  width:100%;
   margin: 0 auto;
-  overflow: scroll;
+  overflow: visible;
 }
 
 .about-us .container{
