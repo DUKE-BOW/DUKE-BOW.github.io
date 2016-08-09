@@ -78,6 +78,8 @@ a{
   text-decoration:none;
   outline:none;
   font-size:14px;
+  font-weight: bold;
+  color: #FFF;
 }
 
 h1{
